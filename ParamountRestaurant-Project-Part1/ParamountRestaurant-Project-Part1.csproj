@@ -187,6 +187,29 @@
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\Images\10.png" />
+    <Content Include="Assets\Images\11.png" />
+    <Content Include="Assets\Images\4.png" />
+    <Content Include="Assets\Images\5.png" />
+    <Content Include="Assets\Images\6.png" />
+    <Content Include="Assets\Images\7.png" />
+    <Content Include="Assets\Images\8.png" />
+    <Content Include="Assets\Images\9.png" />
+    <Content Include="Assets\Images\facebook.png" />
+    <Content Include="Assets\Images\gallery1.png" />
+    <Content Include="Assets\Images\gallery2.png" />
+    <Content Include="Assets\Images\gallery3.png" />
+    <Content Include="Assets\Images\gallery4.png" />
+    <Content Include="Assets\Images\gallery5.png" />
+    <Content Include="Assets\Images\gallery6.png" />
+    <Content Include="Assets\Images\header_image1.png" />
+    <Content Include="Assets\Images\map.png" />
+    <Content Include="Assets\Images\menulinklogo.png" />
+    <Content Include="Assets\Images\paramountlogo.png" />
+    <Content Include="Assets\Images\paramountlogo2.png" />
+    <Content Include="Assets\Images\restaurantbg.jpg" />
+    <Content Include="Assets\Images\restaurantbg.png" />
+    <Content Include="Assets\Images\twitter.png" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -273,7 +296,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Assets\Images\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
